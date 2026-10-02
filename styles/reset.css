@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: Montserrat, sans-serif;
+  color: #130952;
+}
+  
+a, li {
+  color: inherit;
+  text-decoration: none;
+  list-style-type: none;
+}
